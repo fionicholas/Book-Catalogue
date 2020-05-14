@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="BASE_URL">https://www.googleapis.com/books/v1/volumes?q=</string>
+    <string name="BASE_URL_THUMBNAIL">https://books.google.com/books/content/images/frontcover/</string>
+
+    <string name="app_name">AdsBookCatalogue</string>
+
+    <string name="hint_search">Search Book</string>
+    <string name="hint_search_book_here">Search Book Here</string>
+
+    <string name="label_book_catalogue">Book Catalogue</string>
+    <string name="label_book_not_found">Book Not Found</string>
+    <string name="label_desc">Description</string>
+    <string name="label_description">Description</string>
+    <string name="label_image">image for detail book</string>
+    <string name="label_publisher">Publisher</string>
+    <string name="label_rating">Rating</string>
+
+    <string name="sample_book_title">Book Title 1</string>
+    <string name="sample_rating">(5.0)</string>
+</resources>
